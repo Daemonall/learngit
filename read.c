@@ -6,7 +6,7 @@ Git tracks changs of files.
 学习git of 有时间
 娃哈哈
 
-Creating a new branch is quick
+Creating a new branch is quick & simple.
 
 next
 
