@@ -8,5 +8,5 @@ Git tracks changs of files.
 
 Creating a new branch is quick
 
-next is ok?
+next is ok or no?
 
